@@ -479,9 +479,9 @@ nav .mbr-section-btn {
 	left: -2400px;
 }
 
-.mbr-section-title{
+.media-container-column h1.mbr-section-title{
   color: white;
 }
-.media-container-column{
-  color: #cc2952;
+.header10 .media-container-column{
+  background-color: #cc2952;
 }
