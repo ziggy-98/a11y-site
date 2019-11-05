@@ -485,3 +485,7 @@ nav .mbr-section-btn {
 #top-header-box .media-container-column{
   background-color: #cc2952;
 }
+
+.media-container-row .card .card-wrappet .mbr-section-btn{
+  background-color: #cc2952;
+}
