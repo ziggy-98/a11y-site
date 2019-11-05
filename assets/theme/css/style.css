@@ -486,6 +486,7 @@ nav .mbr-section-btn {
   background-color: #cc2952;
 }
 
-.media-container-row .card .card-wrappet .mbr-section-btn{
-  background-color: #cc2952;
+.media-container-row .card .card-wrapper .mbr-section-btn a{
+  background-color: #cc2952!important;
+  border-color: #cc2952!important;
 }
