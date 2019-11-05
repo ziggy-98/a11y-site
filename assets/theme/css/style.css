@@ -490,3 +490,7 @@ nav .mbr-section-btn {
   background-color: #cc2952!important;
   border-color: #cc2952!important;
 }
+
+.gdpr-block a{
+  color: #cc2952;
+}
